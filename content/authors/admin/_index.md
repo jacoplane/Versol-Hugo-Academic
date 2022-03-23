@@ -1,7 +1,7 @@
 ---
 title: Vermeulen Solutions
 role: Digital Agency in Geneva, Switzerland
-avatar_filename: isolated-monochrome-purple.png
+avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests: []
